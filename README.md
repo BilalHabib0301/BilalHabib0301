@@ -47,16 +47,16 @@ I'm pursuing my **BS in Artificial Intelligence**, with a focus on building inte
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalHabib&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Bilal's GitHub Stats" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalHabib&theme=dracula&hide_border=true" alt="Bilal's Streak" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BilalHabib0301&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Bilal's GitHub Stats" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalHabib0301&theme=dracula&hide_border=true" alt="Bilal's Streak" height="170px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalHabib&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalHabib0301&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="170px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalHabib&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalHabib0301&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
@@ -70,5 +70,5 @@ I'm pursuing my **BS in Artificial Intelligence**, with a focus on building inte
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BilalHabib&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=BilalHabib0301&style=flat-square&color=blue" alt="Profile views"/>
 </p>
